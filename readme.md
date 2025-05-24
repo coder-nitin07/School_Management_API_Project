@@ -30,5 +30,5 @@
 
 
 ## Project Links:
-    - GitHub Repository: https://github.com/your-username/School-Management-API
-    - Postman Collection: [Shared via Google Drive / Postman Link]
+    - GitHub Repository: https://github.com/coder-nitin07/School_Management_API_Project.git
+    - Postman Collection: https://drive.google.com/file/d/1JSXtaQH4LV36igbL4ZB3HX6a3cev-OHK/view?usp=sharing
